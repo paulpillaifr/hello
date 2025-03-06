@@ -1,5 +1,0 @@
-
-java is easy
-
-jaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaavaaaaaaaaaaaaaaaaaaaaaaa
-
