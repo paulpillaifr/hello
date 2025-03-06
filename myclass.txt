@@ -1,2 +1,1 @@
 hello this a class file 
-new
